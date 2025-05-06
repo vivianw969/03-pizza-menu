@@ -2,6 +2,9 @@
 
 A modern web application for displaying and managing a pizza menu, built with React.
 
+## Demo
+![Demo](demo.png)
+
 ## Features
 
 - Interactive pizza menu display
